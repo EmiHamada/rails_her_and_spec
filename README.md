@@ -1,0 +1,1 @@
+Rails HerライブラリとRsepcの学習用リポジトリ
